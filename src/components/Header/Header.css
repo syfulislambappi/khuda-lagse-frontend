@@ -1,0 +1,15 @@
+.login-btn {
+    background-color: #3F120F !important;
+    border-color: #3F120F !important;
+}
+
+.admin-btn {
+    background-color: #F7B917 !important;
+    border-color: #F7B917 !important;
+}
+
+@media(max-width: 973px) {
+    .login-btn, .admin-btn {
+        margin-top: 5px;
+    }
+}

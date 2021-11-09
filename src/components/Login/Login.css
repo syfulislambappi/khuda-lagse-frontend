@@ -1,0 +1,17 @@
+.login-icons {
+    cursor: pointer;
+    background-color: transparent;
+    outline: none;
+    border: none;
+}
+
+.google-icon {
+    height: 25px;
+    width: 25px;
+}
+
+.line {
+    background-color: thistle;
+    height: 1px;
+    width: 100%;
+}

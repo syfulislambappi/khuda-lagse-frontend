@@ -5,7 +5,7 @@ Admin Login Information
 email: syfulislambappi@gmail.com
 
 password: 12345678
-## Technology used to create the backend application
+## Technology used to create the frontend application
 - `React`
 - `React Router`
 - `React Bootstrap`
